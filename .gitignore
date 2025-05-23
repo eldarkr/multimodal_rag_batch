@@ -1,0 +1,9 @@
+.vscode/
+env/
+data/
+*.pyc
+__pycache__/
+index_store
+*.pkl
+*.json
+.env
