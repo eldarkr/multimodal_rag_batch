@@ -18,7 +18,7 @@
  - Python 3.13
  - OpenAI API key
  - [uv](https://docs.astral.sh/uv/) package manager
- - Required Python packages (pyproject.toml)
+ - Required Python packages ([pyproject.toml](https://github.com/eldarkr/multimodal_rag_batch/blob/master/pyproject.toml))
  - Docker (optional)
 
 ### Project Structure
